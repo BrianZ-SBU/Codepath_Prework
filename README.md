@@ -62,7 +62,7 @@ If I had a bit more time to work on this project, I would've liked to try and ad
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/RgGPVvz67B0)
 
 
 ## License
